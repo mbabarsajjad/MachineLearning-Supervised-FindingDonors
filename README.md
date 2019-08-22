@@ -6,3 +6,4 @@ Supervised Learning project as a part of Machine Learning Nano Degree Program - 
 WIP... 
 
 - Adaboost
+- Comparison of other algorithms

@@ -2,6 +2,9 @@
 
 ### Finding Donors for CharityML 
 
-#### upervised Learning project
+#### Supervised Learning project
 
-Different algorithms are compared including Adaboost Classifier,  DecisionTree Classifier and Logistic Regression.
+Following algorithms are compared: 
+- Adaboost Classifier
+- DecisionTree Classifier
+- Logistic Regression.

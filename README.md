@@ -2,6 +2,6 @@
 
 ### Finding Donors for CharityML 
 
-Supervised Learning project as a part of Machine Learning Nano Degree Program - Udacity ML Charity Competition
+#### upervised Learning project
 
 Different algorithms are compared including Adaboost Classifier,  DecisionTree Classifier and Logistic Regression.

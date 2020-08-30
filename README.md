@@ -7,4 +7,4 @@
 Following algorithms are compared: 
 - Adaboost Classifier
 - DecisionTree Classifier
-- Logistic Regression.
+- Logistic Regression

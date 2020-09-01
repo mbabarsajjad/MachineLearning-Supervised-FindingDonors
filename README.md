@@ -1,8 +1,6 @@
 ## Project 1 of Udacity's Introduction to Machine Learning Program
 
-### Finding Donors for CharityML 
-
-#### Supervised Learning project
+### Supervised Learning project - Finding Donors for CharityML 
 
 Following algorithms are compared: 
 - Adaboost Classifier

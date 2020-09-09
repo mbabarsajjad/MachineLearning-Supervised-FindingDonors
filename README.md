@@ -5,4 +5,7 @@
 Following algorithms are compared: 
 - Adaboost Classifier
 - DecisionTree Classifier
-- Logistic Regression
+- Logistic Regression  
+
+### Pre-Installation
+Python 3.x , Jupyter Notebook, scikit-learn, NumPy, Pandas, SciPy, matplotlib, seaborn.
